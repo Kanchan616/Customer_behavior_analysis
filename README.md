@@ -188,9 +188,8 @@ The Power BI dashboard provides an interactive view of the major business KPIs a
 * **Customer Analysis** – Customer purchasing behavior
 * **Geographical Analysis** – Regional performance
 
-> Add screenshots of the final Power BI dashboard here.
 
-```text
+
 <img width="760" height="421" alt="image" src="https://github.com/user-attachments/assets/c3934238-eee5-4e7d-8577-fe225c07909d" />
 
 ```
